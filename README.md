@@ -24,7 +24,7 @@ $(selector).spotlight().unspotlight();
 
 # Changes
 This fork adds the following features:<br>
-*unspotlight()
+* unspotlight()
 
 # License
 * GPL v3
