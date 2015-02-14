@@ -2,6 +2,7 @@
 jQuery Spotlight is a jQuery plugin which allows you to highlight elements in your page using a 'spotlight' effect. This plugin is highly customizable and requires no external css or images.
 
 # Usage
+* Initialization:
 ````
 $('div').spotlight({
 	opacity: .5,				//spotlight opacity
@@ -14,6 +15,11 @@ $('div').spotlight({
 	onShow: function(){},	//callback function after spotlight is shown
 	onHide: function(){}		//callback function after spotlight is hidden
 });
+````
+
+* Un-spotlight:
+````
+$(selector).spotlight().unspotlight();
 ````
 
 # Changes
