@@ -30,4 +30,4 @@ This fork adds the following features:<br>
 * unspotlight()
 
 # Credits
-* Dev7studios — http://dev7studios.com/demo/jquery-spotlight
+* Original Author:&nbsp;&nbsp;Dev7studios — http://dev7studios.com/demo/jquery-spotlight
