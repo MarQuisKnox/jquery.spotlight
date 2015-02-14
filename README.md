@@ -26,7 +26,7 @@ $(selector).spotlight().unspotlight();
 ````
 
 # Changes
-This fork adds the following features:<br>
+<a href="https://github.com/MarQuisKnox/jquery.spotlight">This fork</a> (<a href="https://github.com/MarQuisKnox/jquery.spotlight">@MarQuisKnox/jquery.spotlight</a>) adds the following features:<br>
 * unspotlight()
 
 # Credits
