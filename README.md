@@ -4,7 +4,7 @@ jQuery Spotlight is a jQuery plugin which allows you to highlight elements in yo
 # Usage
 * Initialization:
 ````
-$('div').spotlight({
+$(selector).spotlight({
 	opacity: .5,				//spotlight opacity
 	speed: 400,					//animateion speed
 	color: '#333',				//spotlight colour
