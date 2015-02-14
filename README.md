@@ -31,3 +31,4 @@ This fork adds the following features:<br>
 
 # Credits
 * Original Author:&nbsp;&nbsp;Dev7studios — http://dev7studios.com/demo/jquery-spotlight
+* Additional Features:&nbsp;&nbsp;MarQuis Knox — https://github.com/MarQuisKnox/jquery.spotlight
