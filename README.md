@@ -23,8 +23,8 @@ $(selector).spotlight().unspotlight();
 ````
 
 # Changes
-* This fork adds the following features:<br>
-** unspotlight()
+This fork adds the following features:<br>
+*unspotlight()
 
 # License
 * GPL v3
