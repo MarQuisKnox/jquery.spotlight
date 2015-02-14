@@ -23,7 +23,7 @@ $(selector).spotlight().unspotlight();
 ````
 
 # Changes
-* This fork adds the following features:
+* This fork adds the following features:<br>
 ** unspotlight()
 
 # License
